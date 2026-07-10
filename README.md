@@ -16,8 +16,6 @@ The app is upload-driven. Ready-made example files live in
 | `examples/example_dataset.csv`   | Sidebar → **Dataset `.csv`** uploader, then **🚀 Load files** |
 | `examples/edge_importance_sample.csv` | **Edge Importance** tab → upload → **📥 Load files** |
 
-The example graph is fully synthetic (30 nodes, neutral placeholder text) and is
-only meant to demonstrate the interface.
 
 ## Input file formats (to use your own data)
 
