@@ -8,7 +8,7 @@ explanations of extremist-narrative detection.
 ## Quick start with the example data
 
 The app is upload-driven. Ready-made example files live in
-[`examples/`](example) so you can try every tab immediately:
+[`example/`](example) so you can try every tab immediately:
 
 | File | Where to load it |
 |------|------------------|
