@@ -1,6 +1,6 @@
 # GR-EN-A-DE Explorer
 
-
+This repository contains the code associated with the paper titled "GR-EN-A-DE Explorer" under review.
 
 ## Overview
 
